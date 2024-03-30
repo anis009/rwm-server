@@ -2,8 +2,8 @@
 ```
 PORT=5050
 NODE_ENV=production
-MONGO_DEV_URI=mongodb://127.0.0.1:27017/bus-tracker
-MONGO_PROD_URI=mongodb+srv://anismolla:anismolla@cluster0.xdwg2kj.mongodb.net/bus-tracker
+MONGO_DEV_URI=mongodb://127.0.0.1:27017/rwm
+MONGO_PROD_URI=mongodb+srv://anismolla:anismolla@cluster0.xdwg2kj.mongodb.net/rwm
 JWT_SECRET=SINA0537
 
 ```
